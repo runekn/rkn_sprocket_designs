@@ -1,0 +1,34 @@
+{
+  "v": "1.9",
+  "name": "90mm Long",
+  "description": null,
+  "caliber": 90,
+  "breechLength": 488,
+  "muzzle": "60c8fa7d-2347-4bf0-911e-15e2ba401e1a",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 60,
+          "t1": 60,
+          "l": 931
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 45,
+          "t1": 25,
+          "l": 3000
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 0.0,
+  "K": 1900,
+  "PSI": 40000,
+  "shellID": 49
+}

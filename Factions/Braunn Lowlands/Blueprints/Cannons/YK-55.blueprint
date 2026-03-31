@@ -1,0 +1,39 @@
+{
+  "v": "1.9",
+  "name": "YK-55",
+  "description": "",
+  "caliber": 55,
+  "breechLength": 400,
+  "muzzle": "34c1eda8-bcff-4879-89df-1e826cce8b50",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 60,
+          "t1": 60,
+          "l": 800
+        },
+        {
+          "t0": 60,
+          "t1": 40,
+          "l": 99
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 30,
+          "t1": 30,
+          "l": 1000
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 5.96943569,
+  "K": 2000,
+  "PSI": 35000,
+  "shellID": 106
+}

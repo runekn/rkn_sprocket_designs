@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"C.20\",\"caliber\":20,\"breechLength\":200,\"muzzle\":\"1f944da0acbcc0442a41bc30e628c6a0\",\"segments\":[{\"startThickness\":20,\"endThickness\":15,\"len\":0.7,\"flags\":0}],\"counterweight\":29.2,\"muzzleMass\":0.0,\"K\":1800,\"PSI\":45000,\"forwards\":0}],\"instances\":[{\"mountID\":33243,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

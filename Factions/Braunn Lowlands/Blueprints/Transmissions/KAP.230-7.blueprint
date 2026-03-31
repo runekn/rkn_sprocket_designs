@@ -1,0 +1,25 @@
+{
+  "v": "0.4",
+  "name": "KAP.230-7",
+  "description": "",
+  "autoInputTorque": true,
+  "maxInputTorque": 1166.11975,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 1166.11975,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 1.80000007,
+  "auxillaryGearRatio": 2.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    3.0,
+    1.42084169,
+    0.899235666,
+    0.65
+  ],
+  "r": [
+    3.0,
+    1.42084169,
+    0.899235666,
+    0.65
+  ]
+}

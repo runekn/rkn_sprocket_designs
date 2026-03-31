@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"YO-85\",\"caliber\":85,\"breechLength\":200,\"muzzle\":\"e4cfdc160a0bdde4084017379decbd82\",\"segments\":[{\"startThickness\":80,\"endThickness\":65,\"len\":0.58,\"flags\":0},{\"startThickness\":37,\"endThickness\":37,\"len\":0.299999982,\"flags\":1}],\"counterweight\":145.900009,\"muzzleMass\":15.77724,\"K\":2000,\"PSI\":35000,\"forwards\":0}],\"instances\":[{\"mountID\":111,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

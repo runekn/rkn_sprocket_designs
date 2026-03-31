@@ -1,0 +1,29 @@
+{
+  "v": "0.4",
+  "name": "Kaspura B31",
+  "description": "",
+  "autoInputTorque": true,
+  "maxInputTorque": 610.824646,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 610.824646,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 2.3,
+  "auxillaryGearRatio": 1.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    10.0,
+    5.0,
+    3.33333349,
+    2.5,
+    2.0,
+    1.66666675,
+    1.42857146,
+    0.9
+  ],
+  "r": [
+    10.0,
+    5.0,
+    3.33333349,
+    2.5
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"C.60\",\"caliber\":60,\"breechLength\":330,\"muzzle\":\"\",\"segments\":[{\"startThickness\":30,\"endThickness\":12,\"len\":1.0,\"flags\":0},{\"startThickness\":12,\"endThickness\":12,\"len\":0.5,\"flags\":0},{\"startThickness\":10,\"endThickness\":10,\"len\":0.599999964,\"flags\":0}],\"counterweight\":53.3,\"muzzleMass\":0.0,\"K\":1900,\"PSI\":40000,\"forwards\":0}],\"instances\":[{\"mountID\":33483,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

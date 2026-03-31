@@ -1,0 +1,27 @@
+{
+  "v": "0.4",
+  "name": "KAP.240B-7",
+  "description": null,
+  "autoInputTorque": true,
+  "maxInputTorque": 612.4914,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 612.4914,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 3.2,
+  "auxillaryGearRatio": 1.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    8.0,
+    4.0,
+    2.66666675,
+    2.0,
+    1.6,
+    1.33333337,
+    1.0
+  ],
+  "r": [
+    8.0,
+    4.0,
+    2.66666675
+  ]
+}

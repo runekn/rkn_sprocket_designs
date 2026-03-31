@@ -1,0 +1,7 @@
+[
+  {
+    "id": "ENG",
+    "data": "{\"version\":{\"Major\":0,\"Minor\":4},\"name\":\"Mark&Fender 61 V12\",\"cylinders\":12,\"idleRPM\":800,\"cylinderDisplacement\":1.05,\"tech\":1.0,\"targetMinRPM\":2000,\"targetMaxRPM\":3800,\"torqueCoeff\":1.0,\"revLimit\":-1}",
+    "metaData": ""
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "ENG",
+    "data": "{\"version\":{\"Major\":0,\"Minor\":2},\"name\":\"Huaback 540V 3L\",\"cylinders\":8,\"idleRPM\":400,\"cylinderDisplacement\":3.0,\"tech\":0.8,\"targetMinRPM\":1600,\"targetMaxRPM\":2700,\"torqueCoeff\":0.85}",
+    "metaData": ""
+  }
+]

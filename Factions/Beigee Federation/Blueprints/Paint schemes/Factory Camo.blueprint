@@ -1,0 +1,15 @@
+{
+  "v": "2.2",
+  "name": "Factory Camo",
+  "description": "",
+  "colourMapUrl": "24a90130-a786-4f06-af68-a06aead47263",
+  "scale": 0.898,
+  "roughness": 0.713,
+  "metallic": 0.0,
+  "r": 0.459999979,
+  "g": 0.459999979,
+  "b": 0.459999979,
+  "saturation": 1.0,
+  "condition": 0.82,
+  "grime": 0.11
+}

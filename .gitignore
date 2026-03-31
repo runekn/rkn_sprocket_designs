@@ -1,0 +1,21 @@
+
+Factions/*
+!Factions/Darkh Kingdom
+!Factions/Beigee Federation
+!Factions/Braunn Lowlands
+!Factions/Kingdom of Groent
+!Factions/Union of Blufeld Cities
+*.backup
+*.bpMeta
+
+Custom Battle Setups/
+*.zip
+*.png
+*.vdf
+*.jpg
+*.pdn
+Settings.json
+
+!Decals/*
+
+!.gitignore

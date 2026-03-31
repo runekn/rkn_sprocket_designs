@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"C.62\",\"caliber\":62,\"breechLength\":100,\"muzzle\":\"\",\"segments\":[{\"startThickness\":45,\"endThickness\":20,\"len\":1.0,\"flags\":0}],\"counterweight\":0.0,\"muzzleMass\":0.0,\"K\":2200,\"PSI\":30000,\"forwards\":-180}],\"instances\":[{\"mountID\":43732,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

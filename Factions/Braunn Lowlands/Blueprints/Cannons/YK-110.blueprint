@@ -1,0 +1,39 @@
+{
+  "v": "1.9",
+  "name": "YK-110",
+  "description": "",
+  "caliber": 110,
+  "breechLength": 550,
+  "muzzle": "2f4e2928-ca82-47e4-a41f-8e6c8ebecef0",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 40,
+          "t1": 40,
+          "l": 1199
+        },
+        {
+          "t0": 40,
+          "t1": 30,
+          "l": 40
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 20,
+          "t1": 20,
+          "l": 2000
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 21.5404034,
+  "K": 1800,
+  "PSI": 45000,
+  "shellID": 63
+}

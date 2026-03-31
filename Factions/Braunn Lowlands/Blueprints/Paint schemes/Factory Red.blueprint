@@ -1,0 +1,7 @@
+[
+  {
+    "id": "PTJ",
+    "data": "{\"version\":{\"Major\":1,\"Minor\":2},\"name\":\"Factory Red\",\"colourMap\":\"183f8d3335399a2478d40f0cb958da9a\",\"config\":{\"scale\":0.5,\"roughness\":0.5,\"metallic\":0.5,\"hue\":0.03,\"saturation\":0.359999985,\"brightness\":0.1875},\"weather\":{\"condition\":0.859999955,\"grime\":0.35},\"customID\":null}",
+    "metaData": ""
+  }
+]

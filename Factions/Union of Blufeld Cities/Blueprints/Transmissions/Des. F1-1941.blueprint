@@ -1,0 +1,24 @@
+{
+  "v": "0.4",
+  "name": "Des. F1-1941",
+  "description": null,
+  "autoInputTorque": true,
+  "maxInputTorque": 1110.59021,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 1110.59021,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 4.0,
+  "auxillaryGearRatio": 2.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    5.0,
+    2.41302943,
+    1.55965281,
+    1.14432907,
+    0.9
+  ],
+  "r": [
+    5.0,
+    2.41302943
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "v": "0.4",
+  "name": "Huaback 530V 2.1L",
+  "description": "",
+  "cylinders": 8,
+  "idleRPM": 600,
+  "cylinderDisplacement": 2.1,
+  "tech": 0.4,
+  "targetMinRPM": 1500,
+  "targetMaxRPM": 2200,
+  "torqueCoeff": 0.75,
+  "revLimit": -1
+}

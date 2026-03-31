@@ -1,0 +1,39 @@
+{
+  "v": "1.9",
+  "name": "75mm Tank Cannon",
+  "description": "",
+  "caliber": 75,
+  "breechLength": 300,
+  "muzzle": "",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 60,
+          "t1": 50,
+          "l": 1000
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 25,
+          "t1": 25,
+          "l": 1000
+        },
+        {
+          "t0": 25,
+          "t1": 25,
+          "l": 250
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 0.0,
+  "K": 1900,
+  "PSI": 40000,
+  "shellID": 26
+}

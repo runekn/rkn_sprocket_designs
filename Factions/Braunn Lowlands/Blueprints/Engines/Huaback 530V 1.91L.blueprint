@@ -1,0 +1,7 @@
+[
+  {
+    "id": "ENG",
+    "data": "{\"version\":{\"Major\":0,\"Minor\":2},\"name\":\"Huaback 530V 1.91L\",\"cylinders\":6,\"idleRPM\":400,\"cylinderDisplacement\":1.91,\"tech\":0.4,\"targetMinRPM\":1600,\"targetMaxRPM\":2400,\"torqueCoeff\":0.75}",
+    "metaData": ""
+  }
+]

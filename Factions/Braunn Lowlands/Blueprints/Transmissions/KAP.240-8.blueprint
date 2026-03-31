@@ -1,0 +1,25 @@
+{
+  "v": "0.1",
+  "name": "KAP.240-8",
+  "description": "",
+  "autoInputTorque": true,
+  "maxInputTorque": 1749.97546,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 3499.951,
+  "d": [
+    8.0,
+    4.0,
+    2.66666675,
+    2.0,
+    1.6,
+    1.33333337,
+    1.14285719,
+    0.75
+  ],
+  "r": [
+    8.0,
+    4.0,
+    2.66666675,
+    2.0
+  ]
+}

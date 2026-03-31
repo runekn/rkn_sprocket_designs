@@ -1,0 +1,39 @@
+{
+  "v": "1.9",
+  "name": "CO-71L",
+  "description": "",
+  "caliber": 71,
+  "breechLength": 350,
+  "muzzle": "1f944da0acbcc0442a41bc30e628c6a0",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 40,
+          "t1": 25,
+          "l": 1000
+        },
+        {
+          "t0": 25,
+          "t1": 25,
+          "l": 1000
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 10,
+          "t1": 10,
+          "l": 110
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 0.0,
+  "K": 2000,
+  "PSI": 35000,
+  "shellID": 146
+}

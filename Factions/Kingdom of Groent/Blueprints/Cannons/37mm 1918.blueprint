@@ -1,0 +1,29 @@
+{
+  "v": "1.9",
+  "name": "37mm 1918",
+  "description": "",
+  "caliber": 37,
+  "breechLength": 150,
+  "muzzle": "",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 35,
+          "t1": 15,
+          "l": 500
+        },
+        {
+          "t0": 12,
+          "t1": 12,
+          "l": 170
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 0.0,
+  "K": 2400,
+  "PSI": 25000,
+  "shellID": 52
+}

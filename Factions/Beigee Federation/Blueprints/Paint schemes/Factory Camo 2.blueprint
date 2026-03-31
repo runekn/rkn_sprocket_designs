@@ -1,0 +1,7 @@
+[
+  {
+    "id": "PTJ",
+    "data": "{\"version\":{\"Major\":1,\"Minor\":2},\"name\":\"Factory Camo 2\",\"colourMap\":\"d1c59ff13ae0e6f45918cb9db484c94f\",\"config\":{\"scale\":0.5,\"roughness\":0.5,\"metallic\":0.0,\"hue\":1.0,\"saturation\":0.95,\"brightness\":0.315},\"weather\":{\"condition\":0.82,\"grime\":0.11},\"customID\":\"\"}",
+    "metaData": ""
+  }
+]

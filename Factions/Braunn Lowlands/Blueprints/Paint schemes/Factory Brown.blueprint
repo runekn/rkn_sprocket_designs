@@ -1,0 +1,7 @@
+[
+  {
+    "id": "PTJ",
+    "data": "{\"version\":{\"Major\":1,\"Minor\":2},\"name\":\"Factory Brown\",\"colourMap\":\"183f8d3335399a2478d40f0cb958da9a\",\"config\":{\"scale\":0.5,\"roughness\":0.5,\"metallic\":0.5,\"hue\":0.06,\"saturation\":0.299999982,\"brightness\":0.0899999961},\"weather\":{\"condition\":0.539999962,\"grime\":0.7},\"customID\":null}",
+    "metaData": ""
+  }
+]

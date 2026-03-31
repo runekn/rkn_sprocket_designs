@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"95mm Tank Cannon\",\"caliber\":95,\"breechLength\":300,\"muzzle\":\"\",\"segments\":[{\"startThickness\":40,\"endThickness\":30,\"len\":1.0,\"flags\":0},{\"startThickness\":12,\"endThickness\":12,\"len\":1.0,\"flags\":1},{\"startThickness\":10,\"endThickness\":10,\"len\":0.2,\"flags\":0}],\"counterweight\":280.0,\"muzzleMass\":0.0,\"K\":1800,\"PSI\":45000,\"forwards\":0}],\"instances\":[{\"mountID\":44985,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

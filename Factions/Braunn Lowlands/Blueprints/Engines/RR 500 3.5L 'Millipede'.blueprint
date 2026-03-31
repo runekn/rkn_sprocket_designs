@@ -1,0 +1,7 @@
+[
+  {
+    "id": "ENG",
+    "data": "{\"version\":{\"Major\":0,\"Minor\":2},\"name\":\"RR 500 3.5L 'Millipede'\",\"cylinders\":10,\"idleRPM\":600,\"cylinderDisplacement\":3.05,\"tech\":1.0,\"targetMinRPM\":1600,\"targetMaxRPM\":2700,\"torqueCoeff\":1.0}",
+    "metaData": ""
+  }
+]

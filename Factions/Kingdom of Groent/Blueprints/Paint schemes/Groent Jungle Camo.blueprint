@@ -1,0 +1,15 @@
+{
+  "v": "2.2",
+  "name": "Groent Jungle Camo",
+  "description": "",
+  "colourMapUrl": "a5fd8413-00e1-4c74-bbed-3db3ff9802ad",
+  "scale": 0.5,
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "r": 0.15640001,
+  "g": 0.317968041,
+  "b": 0.34,
+  "saturation": 1.0,
+  "condition": 0.5,
+  "grime": 0.0
+}

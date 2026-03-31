@@ -1,0 +1,29 @@
+{
+  "v": "0.4",
+  "name": "Kaspua S11 ",
+  "description": "",
+  "autoInputTorque": true,
+  "maxInputTorque": 587.2246,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 587.2246,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 2.60000014,
+  "auxillaryGearRatio": 1.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    10.0,
+    4.0,
+    2.66666675,
+    2.0,
+    1.6,
+    1.33333337,
+    1.14285719,
+    1.0
+  ],
+  "r": [
+    10.0,
+    4.0,
+    2.66666675,
+    2.0
+  ]
+}

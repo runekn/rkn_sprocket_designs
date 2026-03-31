@@ -1,0 +1,15 @@
+{
+  "v": "2.2",
+  "name": "Brown Camo",
+  "description": "",
+  "colourMapUrl": "412fecf9-0c82-48b0-aa03-5d2dd983e0df",
+  "scale": 0.5,
+  "roughness": 0.5,
+  "metallic": 0.5,
+  "r": 0.75,
+  "g": 0.75,
+  "b": 0.75,
+  "saturation": 1.0,
+  "condition": 0.859999955,
+  "grime": 0.35
+}

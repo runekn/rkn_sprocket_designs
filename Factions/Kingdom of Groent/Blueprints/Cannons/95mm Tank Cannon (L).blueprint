@@ -1,0 +1,39 @@
+{
+  "v": "1.9",
+  "name": "95mm Tank Cannon (L)",
+  "description": "",
+  "caliber": 95,
+  "breechLength": 350,
+  "muzzle": "",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 50,
+          "t1": 40,
+          "l": 1000
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 25,
+          "t1": 25,
+          "l": 1000
+        },
+        {
+          "t0": 25,
+          "t1": 20,
+          "l": 700
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 0.0,
+  "K": 1800,
+  "PSI": 45000,
+  "shellID": 26
+}

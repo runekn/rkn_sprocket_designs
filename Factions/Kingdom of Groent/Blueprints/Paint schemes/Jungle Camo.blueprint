@@ -1,0 +1,7 @@
+[
+  {
+    "id": "PTJ",
+    "data": "{\"version\":{\"Major\":1,\"Minor\":2},\"name\":\"Jungle Camo\",\"colourMap\":\"d4dc5b54a02a8df46852662e58b53f25\",\"config\":{\"scale\":0.5,\"roughness\":0.5,\"metallic\":0.0,\"hue\":0.199999988,\"saturation\":0.7,\"brightness\":0.12},\"weather\":{\"condition\":0.4,\"grime\":0.0},\"customID\":\"\"}",
+    "metaData": ""
+  }
+]

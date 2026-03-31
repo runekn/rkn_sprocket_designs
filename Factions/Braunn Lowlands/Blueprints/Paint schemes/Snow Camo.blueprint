@@ -1,0 +1,7 @@
+[
+  {
+    "id": "PTJ",
+    "data": "{\"version\":{\"Major\":1,\"Minor\":2},\"name\":\"Snow Camo\",\"colourMap\":\"4378dd308ed49f047ae9657260b6ec4a\",\"config\":{\"scale\":0.5,\"roughness\":0.5,\"metallic\":0.5,\"hue\":1.0,\"saturation\":1.0,\"brightness\":0.1575},\"weather\":{\"condition\":0.859999955,\"grime\":0.35},\"customID\":\"\"}",
+    "metaData": ""
+  }
+]

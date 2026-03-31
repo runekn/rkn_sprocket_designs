@@ -1,0 +1,34 @@
+{
+  "v": "1.9",
+  "name": "YK-40",
+  "description": "",
+  "caliber": 40,
+  "breechLength": 250,
+  "muzzle": "34c1eda8-bcff-4879-89df-1e826cce8b50",
+  "segments": [
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 50,
+          "t1": 35,
+          "l": 500
+        }
+      ]
+    },
+    {
+      "v": "0.0",
+      "segments": [
+        {
+          "t0": 30,
+          "t1": 30,
+          "l": 969
+        }
+      ]
+    }
+  ],
+  "muzzleMass": 3.92500162,
+  "K": 2000,
+  "PSI": 35000,
+  "shellID": 134
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "CNN",
+    "data": "{\"blueprints\":[{\"version\":{\"Major\":1,\"Minor\":7},\"name\":\"CO-52\",\"caliber\":52,\"breechLength\":322,\"muzzle\":\"1f944da0acbcc0442a41bc30e628c6a0\",\"segments\":[{\"startThickness\":40,\"endThickness\":25,\"len\":0.5,\"flags\":0},{\"startThickness\":25,\"endThickness\":25,\"len\":1.0,\"flags\":0},{\"startThickness\":10,\"endThickness\":10,\"len\":0.11,\"flags\":1}],\"counterweight\":150.5,\"muzzleMass\":0.0,\"K\":1900,\"PSI\":40000,\"forwards\":0}],\"instances\":[{\"mountID\":44193,\"blueprint\":0,\"flags\":0,\"fireGroup\":0,\"delay\":0.0}]}",
+    "metaData": ""
+  }
+]

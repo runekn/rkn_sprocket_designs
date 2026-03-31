@@ -1,0 +1,23 @@
+{
+  "v": "0.4",
+  "name": "Kaspura S54",
+  "description": "",
+  "autoInputTorque": true,
+  "maxInputTorque": 832.9427,
+  "autoResistanceTorque": true,
+  "maxResistanceTorque": 832.9427,
+  "finalDriveRatio": 10.0,
+  "msrRatioThreshold": 1.30000007,
+  "auxillaryGearRatio": 2.0,
+  "auxiliaryMsrRatioThreshold": 1.5,
+  "d": [
+    3.0,
+    1.380857,
+    0.847995937,
+    0.6
+  ],
+  "r": [
+    3.0,
+    1.380857
+  ]
+}
