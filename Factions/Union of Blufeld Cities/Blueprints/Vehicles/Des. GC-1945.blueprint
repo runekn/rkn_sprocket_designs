@@ -1116,7 +1116,7 @@
       }
     },
     {
-      "id": 0,
+      "id": 5,
       "type": "paintJobRegister",
       "blueprint": {
         "v": "0.0",
@@ -1126,6 +1126,52 @@
           1,
           2
         ]
+      }
+    },
+    {
+      "id": 55,
+      "type": "decalTransform",
+      "blueprint": {
+        "v": "0.0",
+        "name": null,
+        "description": null,
+        "x": 416,
+        "y": 416,
+        "z": 57,
+        "flags": 0
+      }
+    },
+    {
+      "id": 63,
+      "type": "decal",
+      "blueprint": {
+        "v": "0.3",
+        "name": null,
+        "description": null,
+        "imageURL": "Sprocket/Decals/bluefeld_emblem.png"
+      }
+    },
+    {
+      "id": 64,
+      "type": "decalTransform",
+      "blueprint": {
+        "v": "0.0",
+        "name": null,
+        "description": null,
+        "x": 238,
+        "y": 238,
+        "z": 57,
+        "flags": 0
+      }
+    },
+    {
+      "id": 65,
+      "type": "decal",
+      "blueprint": {
+        "v": "0.3",
+        "name": null,
+        "description": null,
+        "imageURL": "Sprocket/Decals/bluefeld_emblem.png"
       }
     }
   ],
@@ -3412,7 +3458,7 @@
           -0.0315249562
         ],
         "rot": [
-          270.0656,
+          270.068542,
           0.0,
           0.0,
           0.0
@@ -3942,7 +3988,7 @@
           2.419464
         ],
         "rot": [
-          40.37764,
+          40.3776474,
           0.0,
           0.0,
           0.0
@@ -3998,9 +4044,9 @@
           -2.935791
         ],
         "rot": [
-          38.76554,
+          38.7655449,
           180.0,
-          7.83192359E-13,
+          7.8319225E-13,
           0.0
         ],
         "scale": [
@@ -4026,9 +4072,9 @@
           -2.935791
         ],
         "rot": [
-          38.76554,
+          38.7655449,
           180.0,
-          7.83192359E-13,
+          7.8319225E-13,
           0.0
         ],
         "scale": [
@@ -4053,8 +4099,8 @@
         ],
         "rot": [
           58.31369,
-          269.999969,
-          -2.925727E-05,
+          269.999939,
+          -3.575891E-05,
           0.0
         ],
         "scale": [
@@ -4064,6 +4110,64 @@
         ]
       },
       "structureBlueprintVuid": 58
+    },
+    {
+      "guid": "e59ff736-a6ea-4a1a-a4c5-6437ed15b872",
+      "vuid": 421,
+      "pvuid": 0,
+      "flags": 2,
+      "decalScaler": 422,
+      "projectedDecal": 423,
+      "transform": {
+        "mirrorVuid": -1,
+        "pos": [
+          1.3685379,
+          1.21979713,
+          -0.329310417
+        ],
+        "rot": [
+          49.4630737,
+          273.1798,
+          -2.627246E-06,
+          0.0
+        ],
+        "scale": [
+          0.416,
+          0.416,
+          0.0570000038
+        ]
+      },
+      "decalProjectionBlueprintVuid": 55,
+      "decalBlueprintVuid": 63
+    },
+    {
+      "guid": "e59ff736-a6ea-4a1a-a4c5-6437ed15b872",
+      "vuid": 427,
+      "pvuid": 0,
+      "flags": 3,
+      "decalScaler": 428,
+      "projectedDecal": 429,
+      "transform": {
+        "mirrorVuid": -1,
+        "pos": [
+          -0.7482424,
+          0.8835511,
+          -3.09500027
+        ],
+        "rot": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          0.238,
+          0.238,
+          0.0570000038
+        ]
+      },
+      "decalProjectionBlueprintVuid": 64,
+      "decalBlueprintVuid": 65
     }
   ],
   "meshes": [

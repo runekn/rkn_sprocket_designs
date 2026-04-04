@@ -1304,7 +1304,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 0,
       "type": "paintJobRegister",
       "blueprint": {
         "v": "0.0",
@@ -1314,6 +1314,29 @@
           1,
           2
         ]
+      }
+    },
+    {
+      "id": 44,
+      "type": "decalTransform",
+      "blueprint": {
+        "v": "0.0",
+        "name": null,
+        "description": null,
+        "x": 500,
+        "y": 500,
+        "z": 25,
+        "flags": 0
+      }
+    },
+    {
+      "id": 72,
+      "type": "decal",
+      "blueprint": {
+        "v": "0.3",
+        "name": null,
+        "description": null,
+        "imageURL": "Sprocket/Decals/bluefeld_emblem.png"
       }
     }
   ],
@@ -2691,6 +2714,35 @@
       }
     },
     {
+      "guid": "e59ff736-a6ea-4a1a-a4c5-6437ed15b872",
+      "vuid": 411,
+      "pvuid": 272,
+      "flags": 3,
+      "decalScaler": 412,
+      "projectedDecal": 413,
+      "transform": {
+        "mirrorVuid": -1,
+        "pos": [
+          -0.799027443,
+          0.4302207,
+          -1.164402
+        ],
+        "rot": [
+          12.6733618,
+          51.84278,
+          1.75018749E-06,
+          0.0
+        ],
+        "scale": [
+          0.5,
+          0.5,
+          0.025
+        ]
+      },
+      "decalProjectionBlueprintVuid": 44,
+      "decalBlueprintVuid": 72
+    },
+    {
       "guid": "4481135e-cefd-499c-8122-414942eecbe4",
       "vuid": 308,
       "pvuid": 264,
@@ -3430,7 +3482,7 @@
           0.4232788
         ],
         "rot": [
-          75.0001144,
+          75.0001,
           0.0,
           90.00002,
           0.0
@@ -3458,7 +3510,7 @@
         ],
         "rot": [
           75.0001,
-          1.3195001E-05,
+          6.59750049E-06,
           270.0,
           0.0
         ],
@@ -3936,7 +3988,7 @@
         "rot": [
           321.545258,
           180.0,
-          6.14190049E-06,
+          6.1419E-06,
           0.0
         ],
         "scale": [
@@ -4258,7 +4310,7 @@
         ],
         "rot": [
           86.6751,
-          0.03139002,
+          0.0313900635,
           180.002518,
           0.0
         ],

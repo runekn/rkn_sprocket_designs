@@ -1080,7 +1080,20 @@
       }
     },
     {
-      "id": 0,
+      "id": 56,
+      "type": "structure",
+      "blueprint": {
+        "v": "0.1",
+        "name": "Unnamed Structure",
+        "description": null,
+        "armourVolume": 0.00161984179,
+        "bodyMeshVuid": 4,
+        "partRepositioning": true,
+        "armourTechID": "rha"
+      }
+    },
+    {
+      "id": 5,
       "type": "paintJobRegister",
       "blueprint": {
         "v": "0.0",
@@ -1093,16 +1106,26 @@
       }
     },
     {
-      "id": 56,
-      "type": "structure",
+      "id": 66,
+      "type": "decalTransform",
       "blueprint": {
-        "v": "0.1",
-        "name": "Unnamed Structure",
+        "v": "0.0",
+        "name": null,
         "description": null,
-        "armourVolume": 0.00161984179,
-        "bodyMeshVuid": 4,
-        "partRepositioning": true,
-        "armourTechID": "rha"
+        "x": 380,
+        "y": 380,
+        "z": 104,
+        "flags": 0
+      }
+    },
+    {
+      "id": 68,
+      "type": "decal",
+      "blueprint": {
+        "v": "0.3",
+        "name": null,
+        "description": null,
+        "imageURL": "Sprocket/Decals/bluefeld_emblem.png"
       }
     }
   ],
@@ -2547,6 +2570,35 @@
       "decalBlueprintVuid": 43
     },
     {
+      "guid": "e59ff736-a6ea-4a1a-a4c5-6437ed15b872",
+      "vuid": 289,
+      "pvuid": 461,
+      "flags": 3,
+      "decalScaler": 290,
+      "projectedDecal": 295,
+      "transform": {
+        "mirrorVuid": -1,
+        "pos": [
+          -0.6144495,
+          0.330502361,
+          -0.7830448
+        ],
+        "rot": [
+          18.1312847,
+          47.4082146,
+          -4.491909E-07,
+          0.0
+        ],
+        "scale": [
+          0.380000025,
+          0.380000025,
+          0.104
+        ]
+      },
+      "decalProjectionBlueprintVuid": 66,
+      "decalBlueprintVuid": 68
+    },
+    {
       "guid": "4481135e-cefd-499c-8122-414942eecbe4",
       "vuid": 274,
       "pvuid": 453,
@@ -3581,7 +3633,7 @@
           -2.592987
         ],
         "rot": [
-          4.3255544E-13,
+          4.579999E-13,
           180.0,
           351.883881,
           0.0
@@ -3607,7 +3659,7 @@
           -2.592987
         ],
         "rot": [
-          -3.81666568E-13,
+          -4.07111E-13,
           180.0,
           8.116113,
           0.0
@@ -3821,9 +3873,9 @@
           -2.94829845
         ],
         "rot": [
-          1.9284265,
+          1.92842686,
           180.0,
-          1.20929552E-13,
+          1.33659E-13,
           0.0
         ],
         "scale": [
@@ -4039,7 +4091,7 @@
           1.8774333
         ],
         "rot": [
-          30.3455067,
+          30.3455029,
           0.0,
           0.0,
           0.0

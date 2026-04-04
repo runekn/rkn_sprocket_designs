@@ -1272,7 +1272,20 @@
       }
     },
     {
-      "id": 5,
+      "id": 57,
+      "type": "structure",
+      "blueprint": {
+        "v": "0.1",
+        "name": "Unnamed Structure",
+        "description": null,
+        "armourVolume": 0.00118867494,
+        "bodyMeshVuid": 8,
+        "partRepositioning": true,
+        "armourTechID": "rha"
+      }
+    },
+    {
+      "id": 0,
       "type": "paintJobRegister",
       "blueprint": {
         "v": "0.0",
@@ -1285,16 +1298,26 @@
       }
     },
     {
-      "id": 57,
-      "type": "structure",
+      "id": 59,
+      "type": "decalTransform",
       "blueprint": {
-        "v": "0.1",
-        "name": "Unnamed Structure",
+        "v": "0.0",
+        "name": null,
         "description": null,
-        "armourVolume": 0.00118867494,
-        "bodyMeshVuid": 8,
-        "partRepositioning": true,
-        "armourTechID": "rha"
+        "x": 498,
+        "y": 498,
+        "z": 25,
+        "flags": 0
+      }
+    },
+    {
+      "id": 66,
+      "type": "decal",
+      "blueprint": {
+        "v": "0.3",
+        "name": null,
+        "description": null,
+        "imageURL": "Sprocket/Decals/bluefeld_emblem.png"
       }
     }
   ],
@@ -2751,6 +2774,35 @@
           0.9578326
         ]
       }
+    },
+    {
+      "guid": "e59ff736-a6ea-4a1a-a4c5-6437ed15b872",
+      "vuid": 353,
+      "pvuid": 268,
+      "flags": 3,
+      "decalScaler": 354,
+      "projectedDecal": 355,
+      "transform": {
+        "mirrorVuid": -1,
+        "pos": [
+          -0.977417,
+          0.316793919,
+          -0.241568565
+        ],
+        "rot": [
+          0.0,
+          63.00922,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          0.498000026,
+          0.498000026,
+          0.025
+        ]
+      },
+      "decalProjectionBlueprintVuid": 59,
+      "decalBlueprintVuid": 66
     },
     {
       "guid": "4481135e-cefd-499c-8122-414942eecbe4",
