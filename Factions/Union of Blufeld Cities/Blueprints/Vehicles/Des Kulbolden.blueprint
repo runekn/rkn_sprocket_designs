@@ -7,7 +7,7 @@
     "mass": 10061,
     "creationDate": "1916.09.15",
     "class": "",
-    "desc": "After Günther Burstyn failed to generate interest within the Austro-Hungarian War Ministry in his armored vehicle concept, the plans somehow landed in the hands of Bluefeld generals. The gentry saw potential in armored tracked vehicles to make up for army size disparency and ordered prototypes to be built. Due to the incompleteness of Burstyn's original drawings, the Bluefeld prototypes only resembled the original in general silhouette.\n\nThe tank did not do well in trials. The arms were often incapable of lifting the chassis, and the concept would never be revisited. Not to mention the engine was woefully underpowered. The prototypes were never made public knowlegde and were quietely moved to a storage facility, where they would stay hidden until being discovered several decades later.",
+    "desc": "After Günther Burstyn failed to generate interest within the Austro-Hungarian War Ministry in his armored vehicle concept, the plans somehow landed in the hands of Blufeld generals. The gentry saw potential in armored tracked vehicles to make up for army size disparency and ordered prototypes to be built. Due to the incompleteness of Burstyn's original drawings, the Blufeld prototypes only resembled the original in general silhouette.\n\nThe tank did not do well in trials. The arms were often incapable of lifting the chassis, and the concept would never be revisited. Not to mention the engine was woefully underpowered. The prototypes were never made public knowlegde and were quietely moved to a storage facility, where they would stay hidden until being discovered several decades later.",
     "cost": 12538
   },
   "blueprints": [
@@ -990,7 +990,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 0,
       "type": "paintJobRegister",
       "blueprint": {
         "v": "0.0",
@@ -2273,14 +2273,14 @@
       "transform": {
         "mirrorVuid": 381,
         "pos": [
-          -0.323395729,
+          -0.323395252,
           -0.997131348,
           -0.256132126
         ],
         "rot": [
           0.0,
           0.0,
-          1.33402125E-07,
+          0.0,
           0.0
         ],
         "scale": [
@@ -2303,13 +2303,13 @@
         "mirrorVuid": 378,
         "pos": [
           0.323394775,
-          -0.9971316,
-          -0.256129265
+          -0.997131348,
+          -0.256127834
         ],
         "rot": [
           0.0,
           0.0,
-          1.33402125E-07,
+          0.0,
           0.0
         ],
         "scale": [
@@ -2740,13 +2740,13 @@
         "mirrorVuid": -1,
         "pos": [
           0.0,
-          0.624084353,
-          -1.00396824
+          0.6240845,
+          -1.00396633
         ],
         "rot": [
           0.0,
           0.0,
-          1.33402125E-07,
+          0.0,
           0.0
         ],
         "scale": [
@@ -3121,7 +3121,7 @@
           -1.45363474
         ],
         "rot": [
-          75.9955,
+          75.99548,
           0.0,
           0.0,
           0.0
@@ -3421,7 +3421,7 @@
           -0.175207615
         ],
         "rot": [
-          38.5850372,
+          38.58504,
           90.73632,
           0.0,
           0.0
@@ -3447,7 +3447,7 @@
           0.657056332
         ],
         "rot": [
-          306.640533,
+          306.6405,
           90.0,
           270.0,
           0.0
@@ -3525,7 +3525,7 @@
           0.4139943
         ],
         "rot": [
-          8.828021E-06,
+          8.828023E-06,
           179.999924,
           1.42027748,
           0.0
